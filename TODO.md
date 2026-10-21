@@ -7,7 +7,7 @@
 - [x] Incluir chamadas para ação em mais de um ponto da página e um fechamento orientado à conversão.
 - [x] Incluir seção de depoimentos sem fabricar avaliações: usar espaços reservados identificados como tal até que existam relatos reais autorizados.
 - [x] Incluir selo editorial visual sem alegação de garantia, certificação ou endosso inexistente.
-- [ ] Preencher `client/public/product-config.js` com a URL exata da oferta Hotmart e ativar os botões; o campo segue vazio porque o link não foi fornecido.
+- [x] Preencher `client/public/product-config.js` com a URL exata da oferta Hotmart fornecida pelo usuário e ativar os botões, validando HTTPS e o domínio Hotmart.
 
 ## Imagens do produto
 - [x] Criar imagens originais, hiper-realistas, cinematográficas e profissionais sobre o e-book para capa e divulgação no Hotmart.

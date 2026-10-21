@@ -1,4 +1,4 @@
 window.PRODUCT_CONFIG = {
-  // Preencha com a URL pública da oferta na Hotmart antes de ativar os botões.
-  hotmartUrl: "",
+  // Checkout oficial fornecido pelo usuário.
+  hotmartUrl: "https://pay.hotmart.com/J108122629V",
 };
